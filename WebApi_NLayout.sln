@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32519.111
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi_NLayout", "WebApi_NLayout\WebApi_NLayout.csproj", "{66327F3F-4835-410E-B08D-CD1D3D34B9F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66327F3F-4835-410E-B08D-CD1D3D34B9F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66327F3F-4835-410E-B08D-CD1D3D34B9F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66327F3F-4835-410E-B08D-CD1D3D34B9F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66327F3F-4835-410E-B08D-CD1D3D34B9F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6776E1F-5371-42C9-AA25-66EE0B75780A}
+	EndGlobalSection
+EndGlobal
